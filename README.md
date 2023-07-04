@@ -4,7 +4,7 @@ Statistical modelling with python
 1.To extracte data for bike stations in Boston USA from public APIs  sources.(Citybikes, Yelp and Foursquare).
 2.Cleaning and transforming the data.
 3.Developing insights into the trends and estimating relationships between POI which are turned into independent and dependent variables .
-4.Building a Regression model.
+4.Building a  Linear Regression model.
 
 ## Process
 .API request for data collection(publicly available dataset).
